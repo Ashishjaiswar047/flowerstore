@@ -1,1 +1,1 @@
-# flowerstore
+# flower_store php project
